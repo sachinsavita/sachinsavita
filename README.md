@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinsavita, checkout my resume https://sachinsavita.github.io/Web-Resume/
 - 👀 I’m interested in ...an opportunity as a Back-End Developer
-- 🌱 I’m currently learning ...Spring Framework
-- 💞️ I’m looking to collaborate on ...J2EE project
+- 🌱 I’m currently working with ...Spring Framework
+- 💞️ I’m looking to collaborate on ...Spring Boot
 - 📫 How to reach me ...Email-sachinsavita2296@gmail.com.
 
 <!---
