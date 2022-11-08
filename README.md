@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @sachinsavita, checkout my resume https://sachinsavita.github.io/Web-Resume/
-- 👀 I’m interested in ...an opportunity as a Back-End Developer
-- 🌱 I’m currently working with ...Spring Framework
-- 💞️ I’m looking to collaborate on ...Spring Boot
-- 📫 How to reach me ...Email-sachinsavita2296@gmail.com.
+Hi there 👋
+3+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​ service applications using Java stack. I am always open in working with new tech stack. Following are my current tech stack.
 
-<!---
-sachinsavita/sachinsavita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tech Stack:
+Backend: Java (8), Spring MVC, Spring Boot, Hibernate, Restful Services
+Frontend: HTML5, CSS3, JavaScript, Jquery, React
+Database: Oracle Sql, MySql, MS Sql
+Build tools: Maven
+Servers: Tomcat
+Version Control: Git
+IDE: Intellij IDEA, VS Code, Eclipse
+Operating System: Mac, Windows
+
+Soft Skills:
+Problem Solving, TeamWork, Communication
