@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Savita</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ftechwasti%2Fhow-to-customize-banner-for-spring-boot-application-590d01299a49&psig=AOvVaw0D0c5GfEHCQS3MW8FLm-IR&ust=1667991460541000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiFnsO3nvsCFQAAAAAdAAAAABAD" width="500" height="200">
+<p align="left"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ftechwasti%2Fhow-to-customize-banner-for-spring-boot-application-590d01299a49&psig=AOvVaw0D0c5GfEHCQS3MW8FLm-IR&ust=1667991460541000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiFnsO3nvsCFQAAAAAdAAAAABAD" width="1000" height="200">
 
 
 
