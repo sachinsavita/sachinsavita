@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinsavita" alt="sachinsavita" /></a> </p>
 
-- 🔭 I’m currently working on **Restful Webservices**
+- 🔭 I’m currently working on **ReactJs**
 
 - 🌱 I’m currently learning **Spring Cloud, Microservices**
 
-- 👯 I’m looking to collaborate on **Spring Boot**
+- 👯 I’m looking to collaborate on **Spring Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinsavita?tab=repositories](https://github.com/sachinsavita?tab=repositories)
 
-- 💬 Ask me about **Java Technologies and Frameworks**
+- 💬 Ask me about **Java Technologies and Spring Framework and Its Modules**
 
 - 📫 How to reach me **sachinsavita95@gmail.com**
 
